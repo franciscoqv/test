@@ -13,7 +13,7 @@ filename: index
 - [AIs](./ais.md) 
 
 Todos:
-- [2012 09 21 Songs and trips](./2012%2009%2021%20Songs%20and%20trips.md)
+- [2012 09 21 Songs and trips](./2012-09-21-songs-and-trips.md)
 - 2015 04 12 Crímenes en Japón
 - 2015 07 10 New research. Human-structure interaction using ACT-R
 - 2015 07 16 Lo más importante a tener antes de viajar a Japón
