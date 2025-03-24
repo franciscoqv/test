@@ -1,18 +1,16 @@
 ---
 share: "true"
-title: index
+filename: index
 ---
 > [!QUOTE]
 > "Non foras ire! In interiore homine habitat veritas."
 
 Últimos 5 posts:
 - [Escindir](./2024-12-30-Escindir.md) 
-- 2024 11 06 Podcast EDUCAUSE Conference 2024 
-- 2024 08 02 ¿Para qué sirve el data warehouse?
-- 2024 03 15 Censo 2024 - Costo por pregunta
-- 2024 03 11 AIs
+- [podcast-educause-conference-2024](./podcast-educause-conference-2024.md) 
+- [para-que-sirve-el-datawarehouse](./para-que-sirve-el-datawarehouse.md)
+- [censo-2024-costo-por-pregunta](./censo-2024-costo-por-pregunta.md)
+- [ais](./ais.md)
 
 0- Mi colección de discos
 Contacto 
-
-[Escindir](./2024-12-30-Escindir.md) 
