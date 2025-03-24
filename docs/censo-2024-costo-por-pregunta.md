@@ -4,6 +4,7 @@ created_time: 18:12
 share: "true"
 filename: censo-2024-costo-por-pregunta
 ---
+# Censo 2024 - Costo por pregunta
 De acuerdo al Diario Financiero: 
 > Censo 2024 cobra protagonismo en Presupuesto del próximo año, liderando el gasto de estadísticas. El programa totaliza $ **164.181 millones** para el pago de censistas, campañas comunicacionales, consultorías internacionales, servicios informáticos, arriendos de inmuebles y la adquisición de activos no financieros, entre otros.
 

@@ -4,6 +4,7 @@ created_time: 15:37
 share: "true"
 filename: ais
 ---
+# AIs
 Les cuento que yo tengo (pagadas, jaja) las cuatro IAs más grandes: 
 - ChatGPT (OpenAI)
 - Gemini (Google)
