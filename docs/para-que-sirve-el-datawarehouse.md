@@ -6,6 +6,7 @@ etiquetas:
 share: "true"
 filename: para-que-sirve-el-datawarehouse
 ---
+# ¿Para qué sirve el data warehouse?
 Recientemente, me plantearon una pregunta desafiante pero legítima: ¿Para qué sirve un data warehouse? A continuación, intentaré explicarlo de manera clara y concisa.
 
 ## El contexto: Datos en sistemas empresariales
