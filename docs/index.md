@@ -14,6 +14,3 @@ share: "true"
 0- Mi colección de discos
 Contacto 
 
-Prueba
-
-
