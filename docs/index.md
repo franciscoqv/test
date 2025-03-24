@@ -7,10 +7,11 @@ filename: index
 
 Últimos 5 posts:
 - [Escindir](./2024-12-30-Escindir.md) 
-- [podcast-educause-conference-2024](./podcast-educause-conference-2024.md) 
-- [para-que-sirve-el-datawarehouse](./para-que-sirve-el-datawarehouse.md)
-- [censo-2024-costo-por-pregunta](./censo-2024-costo-por-pregunta.md)
-- [ais](./ais.md)
+- [Podcast EDUCAUSE Conference 2024](./podcast-educause-conference-2024.md) 
+- [¿Para qué sirve el data warehouse?](./para-que-sirve-el-datawarehouse.md)
+- [Censo 2024 - Costo por pregunta](./censo-2024-costo-por-pregunta.md)
+- [AIs](./ais.md) 
 
-0- Mi colección de discos
-Contacto 
+Por otro lado:
+- mi-coleccion-de-discos
+- Contacto 
