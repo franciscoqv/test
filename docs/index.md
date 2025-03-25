@@ -2,7 +2,6 @@
 share: "true"
 filename: index
 ---
-> [!QUOTE]
 > "Non foras ire! In interiore homine habitat veritas."
 
 ## Último post:
