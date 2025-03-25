@@ -1,9 +1,36 @@
-title: My Poole Site
-description: A minimal site using the Poole Jekyll theme
-url: "" # e.g. https://yourdomain.com
-baseurl: "" # e.g. /blog
+# Información básica del sitio
+title: "Mi Sitio con Hyde"
+description: "Un sitio simple usando el tema Hyde basado en Poole"
+author: "Tu Nombre"
+url: "https://tusuario.github.io"  # Reemplaza con tu usuario de GitHub
+baseurl: ""  # Si usas un repositorio tipo usuario.github.io, déjalo vacío
 
-remote_theme: poole/poole
+# Tema remoto
+remote_theme: poole/hyde
 
+# Plugins permitidos en GitHub Pages
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-remote-theme
+
+# Opcional: configuración de Hyde
+paginate: 5
+paginate_path: "/page:num"
+
+# Sidebar settings
+sidebar:
+  title: "Mi Blog"
+  description: "Cosas que me interesan"
+  avatar: "/images/avatar.png" # opcional, debes tener esa imagen en /images
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
