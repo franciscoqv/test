@@ -1,1 +1,9 @@
+title: My Poole Site
+description: A minimal site using the Poole Jekyll theme
+url: "" # e.g. https://yourdomain.com
+baseurl: "" # e.g. /blog
+
 remote_theme: poole/poole
+
+plugins:
+  - jekyll-remote-theme
