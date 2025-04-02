@@ -8,7 +8,7 @@ filename: index
 - [2024 12 30 Escindir](./2024-12-30-Escindir.md)
 
 
-## Todos:
+## Todos los posts:
 - [2024 12 30 Escindir](./2024-12-30-Escindir.md)
 - [2024 11 06 Podcast EDUCAUSE Conference 2024](./podcast-educause-conference-2024.md)
 - [2024 08 02 ¿Para qué sirve el data warehouse?](./para-que-sirve-el-datawarehouse.md)
@@ -41,7 +41,19 @@ filename: index
 - [2012 09 21 Songs and trips](./2012-09-21-songs-and-trips.md)
 
 
+## Recursos:
+- Un hombre llamó a la puerta de la amada (Rumi)
+- TIME Classification
+- Siete etapas de la libertad financiera
+- Prueba Chatbot Admisión UC
+- Little Rock, Arkansas, before and after construction of the I-630
+- KANO Model
+- Estudio APV (DeepResearch ChatGPT)
+- 2024 03 26 Este es un video hecho por IA
+- "Allí donde usted nada, su hija se está ahogando" –Jung
 
-Por otro lado:
+
+## Por otro lado:
 - mi-coleccion-de-discos
 - Contacto 
+
